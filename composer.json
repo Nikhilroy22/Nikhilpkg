@@ -1,0 +1,19 @@
+{
+    "name": "nikhil/nikhil",
+    "description": "new bangla project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nikhil\\Nikhil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikhilroy22",
+            "email": "nikhilroyfff@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
