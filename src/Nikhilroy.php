@@ -1,5 +1,5 @@
 <?php
-namespace Nikhil\Nikhil;
+namespace Nikhil;
 class Nikhilroy{
   public function pujabd(){
     return "nikhil pkg puja";
